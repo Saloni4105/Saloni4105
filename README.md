@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Saloni4105
-- 👀 I’m interested in web development and cyber security
+- 👋 Hi, I’m Saloni4105
+- 👀 I’m web development and cyber security enthusiast
 - 🌱 I’m currently pursuing B.tech in computer science
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m always open to collaborations on exciting web development and Cyber security projects 
 - 📫 contact me : salonigawande04@gmail.com
 
 <!---
