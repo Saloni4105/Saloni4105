@@ -8,9 +8,10 @@
 - Backend : Spring Boot, Java
 - Database : MySQL
 - Tools: GitHub
+
   
-- 📫 Let's Connect!
-- LinkedIn: [https://www.linkedIn.com/in/saloni-gawande-129b24258](https://www.linkedin.com/in/saloni-gawande/)
+### 📫 Let's Connect!
+- LinkedIn: https://www.linkedin.com/in/saloni-gawande
 - Github:- https://github.com/Saloni4105
 - Email: salonigawande04@gmail.com
 
