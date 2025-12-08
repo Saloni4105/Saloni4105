@@ -1,7 +1,7 @@
 - Hi there!👋 I'm Saloni Gawande✨
 - 🌱Final year Computer Science and Engineering Student
-- 👀Passionate about Full Stack development and cyber security enthusiast
-- 💞️ I’m always open to collaborations on exciting web development and Cyber security projects .
+- 👀Passionate about Java Full Stack development
+- 💞️Microsoft Learn Student Ambassador
 
 ### Skills
 - Frontend : HTML, CSS, JavaScript, Angular JS
