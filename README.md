@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋 I'm</h1>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Saloni;Saloni+Gawande" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Saloni;Saloni+Gawande" />
 </h1>
 
 <h3 align="center">Java Full Stack Developer | Final Year CSE Student</h3>
